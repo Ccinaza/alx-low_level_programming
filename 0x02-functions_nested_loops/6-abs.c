@@ -2,9 +2,9 @@
 
 /**
  * _abs - Check main
- * @r: An integer input
+ * @n: An integer input
  * Description: This function returns absolute value of a number
- * Return: Absolute value of number r
+ * Return: Absolute value of number n
  */
 int _abs(int n)
 {

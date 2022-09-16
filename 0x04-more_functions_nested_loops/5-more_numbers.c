@@ -2,6 +2,7 @@
 
 /**
  * print_most_numbers -> this prints most numbers
+ * Return: void
  */
 
 void print_most_numbers(void)
